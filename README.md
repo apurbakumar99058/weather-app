@@ -9,7 +9,7 @@
 
  `Weather Web App to get the current weather state using the openweathermap API 🌐`
 
-  <a href="#"><strong>➥ Live Demo</strong></a>
+  <a href="https://apurbakumar99058.github.io/Weather-App/"><strong>➥ Live Demo</strong></a>
 
 <img src="./icons/weather app.png" /> <hr>
 
